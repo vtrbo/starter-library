@@ -2,7 +2,7 @@
   "name": "---name---",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@7.7.1",
+  "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": {
     "name": "Victor Bo",
@@ -50,18 +50,18 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@types/node": "^18.6.2",
-    "@vtrbo/eslint-config": "^0.0.6",
+    "@types/node": "^18.7.5",
+    "@vtrbo/eslint-config": "^0.0.7",
     "@vtrbo/ni": "^0.0.3",
-    "@vtrbo/utils": "0.0.0-alpha.0",
+    "@vtrbo/utils": "0.0.13",
     "bumpp": "^8.2.1",
-    "eslint": "^8.20.0",
+    "eslint": "^8.22.0",
     "esno": "^0.16.3",
-    "pnpm": "^7.7.1",
+    "pnpm": "^7.9.0",
     "rimraf": "^3.0.2",
     "typescript": "^4.7.4",
-    "unbuild": "^0.7.6",
-    "vite": "^3.0.4",
-    "vitest": "^0.19.1"
+    "unbuild": "^0.8.8",
+    "vite": "^3.0.7",
+    "vitest": "^0.22.0"
   }
 }
